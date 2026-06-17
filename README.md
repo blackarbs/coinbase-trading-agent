@@ -86,7 +86,7 @@ grid-trading-agent/
     │   └── logger.ts
     │
     ├── cache/
-    │   ├── redis.ts             # ioredis-os
+    │   ├── redis.ts             # ioredis-xyz
     │   └── store.ts             # grid-state key
     │
     ├── price/
